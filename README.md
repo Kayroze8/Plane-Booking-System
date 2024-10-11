@@ -27,7 +27,7 @@ The Plane Booking System is a web application that allows users to book flights,
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/plane-booking-system.git
+   git clone https://github.com/Kayroze8/plane-booking-system.git
    ```
 
 2. Navigate to the project directory:
